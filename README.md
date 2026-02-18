@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddhartha
 
-<!--
-**boddu-siddhartha/boddu-siddhartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Graduate (2025)  
+📊 Data Science & GenAI Learner  
+💻 SQL | Python | Power BI | Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 👨‍💼 Employee Management System (SQL)
+- 6 relational tables
+- Foreign key constraints
+- Payroll & Leave integration
+- Business analysis queries
+
+🔗 Check it here:
+https://github.com/boddu-siddhartha/employee-management-system-sql
+
+---
+
+## 📫 Connect With Me
+📍 Hyderabad, India  
